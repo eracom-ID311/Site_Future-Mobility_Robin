@@ -8,3 +8,10 @@ application.windows32
 application.windows64
 application.macosx
 out
+*.css
+*.eot
+*.svg
+*.ttf
+*.woff
+*.woff2
+*.zip
